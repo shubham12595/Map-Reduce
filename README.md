@@ -1,7 +1,5 @@
 # Map-Reduce
 
-Here, you will complete a back-end for a MapReduce system and test it on a couple MapReduce jobs: word count (provided), and meanCharsMR (you must implement).
-
 Specifically, the task is divided into 3 parts. :
 
 I Part - PartitionFunction 
